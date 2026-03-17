@@ -1,6 +1,6 @@
 # Building and Installing XDM
 
-Xtreme Download Manager (XDM) is a desktop application primarily built with .NET. It supports Windows (via WPF) and Linux (via GTK).
+Anz Download Manager (AnzDM) is a desktop application primarily built with .NET. It supports Windows (via WPF) and Linux (via GTK).
 
 Here is the process to build or install the application from source for both platforms.
 
@@ -19,8 +19,8 @@ The Windows version is built using C# with Windows Presentation Foundation (WPF)
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone https://github.com/subhra74/xdm.git
-   cd xdm/app/XDM/XDM.Wpf.UI
+   git clone https://github.com/mmar58/anz-download-manager.git
+   cd anz-download-manager/app/XDM/XDM.Wpf.UI
    ```
 
 2. Restore the necessary dependencies:
