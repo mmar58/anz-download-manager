@@ -1,0 +1,2 @@
+- 17 March 2026
+    - Added app_build.md file for building xdm runtime information
